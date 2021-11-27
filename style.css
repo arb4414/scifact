@@ -1,0 +1,35 @@
+
+
+
+html {
+	background-color: rgb(160, 248, 248) ;
+    height: 100%;
+}
+body{
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255) ;
+}
+a{
+   text-decoration: none;
+}
+
+h2{
+    text-align: center;
+}
+
+footer {
+	background-color: #1696eb;
+	clear: both;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 60%;
+    height: 8%;
+}
+footer p {
+	text-align: center;
+	color: white;
+	padding: 1em 0;
+}
